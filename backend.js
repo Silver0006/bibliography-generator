@@ -3,4 +3,4 @@ function combineStrings() {
   const string2 = document.getElementById('string2').value;
   const combinedString = string1 + string2;
   document.getElementById('result').textContent = 'Combined String: ' + combinedString;
-});
+};
