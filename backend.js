@@ -2,7 +2,7 @@ console.log("test");
 
 
 
-const firstname = document.createElement('INPUT');
+const firstname = document.createElement('input');
 const newButton = document.createElement('button');
 newButton.textContent = 'Click me!';
 
